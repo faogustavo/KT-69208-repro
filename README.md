@@ -1,1 +1,1 @@
-![Bug](./bug-video.mp4)
+![Bug](./bug-video.gif)
